@@ -1,0 +1,35 @@
+body {
+    background-color:green
+}
+h1 {
+    text-align:center;
+}
+p {
+    text-align:justify;
+}
+nav ul {
+    text-align:center;
+    display:inline
+}
+nav a:link, nav a:visited {
+    color: yellow
+}
+nav a:hover {
+    color:orange
+}
+nav a {
+
+    text-decoration: none;
+    font-weight: bold;
+}
+ul {
+    font-size:20px
+}
+.lineasuperior {
+    text-align:center
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
